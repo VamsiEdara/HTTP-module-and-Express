@@ -3,7 +3,8 @@ const http = require('http'); // required the http module
 //creating server is the first part and the second part is listening to the incoming request from client
 
 
-// http.createServer will accept a callback function. This callback function will be fired off each time a new request hits our server.
+// http.createServer will accept a callback function. 
+// This callback function will be fired off each time a new request hits our server.
 // The call back has two arguments these are request and response
 
 
