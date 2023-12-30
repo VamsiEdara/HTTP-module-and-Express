@@ -1,4 +1,6 @@
 const http = require('http'); // required the http module
+//In http module ----
+//creating server is the first part and the second part is listening to the incoming request from client
 
 const PORT = 3000;
 
