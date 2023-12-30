@@ -42,7 +42,7 @@ server.listen(PORT, function exec() {
     console.log(`Server is Up and running on PORT: ${PORT}`);
 });
 // OR Using arrow function
-// server.listen(PORT, () => {
+// server.listen(PORT,'127.0.0.1', () => {
 //     console.log(`Server is Up and running on PORT: ${PORT}`);
 // });
 
