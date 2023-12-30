@@ -45,4 +45,4 @@ server.listen(PORT, function exec() {
 // server.listen(PORT,'127.0.0.1', () => {
 //     console.log(`Server is Up and running on PORT: ${PORT}`);
 // });
-
+// type in browser 127.0.0.1:3000
