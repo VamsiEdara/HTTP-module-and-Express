@@ -1,5 +1,5 @@
 {
-    "name": "basichttpserverusingnode",
+    "name": "basic-http-server-in-node",
     "version": "1.0.0",
     "description": "",
     "main": "httpindex.js",
